@@ -64,13 +64,14 @@ A micro drama OTT platform wants to understand:
 <img width="2381" height="1476" alt="dashboard1_platform" src="https://github.com/user-attachments/assets/65588ff2-b1e7-4faa-a37d-cd426b6a39c3" />
 
 ### Dashboard 2 — Content Performance
-![Content Performance](dashboards/dashboard2_content.png)
+<img width="2377" height="887" alt="dashboard2_content" src="https://github.com/user-attachments/assets/5e949199-d539-4df3-aa50-af9016936618" />
 
 ### Dashboard 3 — User Funnel
-![User Funnel](dashboards/dashboard3_funnel.png)
+<img width="1485" height="1036" alt="dashboard3_funnel" src="https://github.com/user-attachments/assets/f00b2986-0aaa-4e51-8260-c0bffdba0b84" />
 
 ### Dashboard 4 — A/B Test Results
-![A/B Test](dashboards/dashboard4_abtest.png)
+<img width="1784" height="786" alt="dashboard4_abtest" src="https://github.com/user-attachments/assets/f453ae57-943a-47cf-b58b-526c639d4165" />
 
 ### Dashboard 5 — Churn Analysis
-![Churn Analysis](dashboards/dashboard5_churn.png)
+<img width="1784" height="741" alt="dashboard5_churn" src="https://github.com/user-attachments/assets/520b1ed8-e15e-48d6-bdc4-4fb22d1ec638" />
+
