@@ -75,3 +75,10 @@ A micro drama OTT platform wants to understand:
 ### Dashboard 5 — Churn Analysis
 <img width="1784" height="741" alt="dashboard5_churn" src="https://github.com/user-attachments/assets/520b1ed8-e15e-48d6-bdc4-4fb22d1ec638" />
 
+
+## 💡 Key Insights
+1. Romance is the most viewed genre on platform
+2. Thumbnail B outperforms A with 20% higher CTR
+3. Free users have 70% churn rate — needs attention
+4. Mobile is most used device for watching
+5. Completion rate drops below 40% for some shows
